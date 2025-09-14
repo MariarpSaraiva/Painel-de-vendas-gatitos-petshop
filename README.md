@@ -60,6 +60,3 @@ Este projeto apresenta um dashboard interativo no Power BI desenvolvido para o G
 - Houve um crescimento expressivo no faturamento entre 2021 e início de 2022, seguido de leve queda em outubro de 2022.  
 
 ---
-
-## Imagem do Dashboard
-![Dashboard Gatito Petshop](./Gatito.jpg)
